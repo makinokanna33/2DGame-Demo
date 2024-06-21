@@ -1,35 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c6bf5cbcb2a88da43b0420a5065f3e2d, type: 3}
-  m_Name: Samurai
-  m_EditorClassIdentifier: 
-  MaxHp: 100
-  CurrentHp: 0
-  MaxAttack: 30
-  MinAttack: 20
-  MoveSpeed: 7
-  HeroName: Samurai
-  BattleView_Icon: {fileID: 21300000, guid: 57ac4e5231dfccd4ab636a2fec5f4657, type: 3}
-  Invenotry_SlotIcon: {fileID: 21300000, guid: f676e652157a6954d880cc6f50b2270c, type: 3}
-  Inventory_DetailIcon: {fileID: 21300000, guid: fc89b90388097224b8b2c9d5d4058ad6, type: 3}
-  Scene_HeadIcon: {fileID: 21300000, guid: f676e652157a6954d880cc6f50b2270c, type: 3}
-  HeroInfo_1: "\u5E05\u6C14\u7684\u5251\u58EB\u88C5\u5C0F\u571F"
-  HeroInfo_2: "\u53D8\u5F3A\u540E\u7684\u6211\uFF0C\u4E00\u95EA\u5E05\u4E0D\u5E05"
-  MaxAttackNum: 3
-  JumpForce: 23
-  MaxJumpNum: 2
-  Crit: 0.5
-  Skill_Dash: {fileID: 11400000, guid: 30853a4e22502aa45a314a1e952bb86a, type: 2}
-  Skill_1: {fileID: 11400000, guid: 15cc7f1291da8b04fa8188f3892a08f5, type: 2}
-  Skill_2: {fileID: 11400000, guid: 061bcf77ee170df46a85f7ed5b43b308, type: 2}
-  CurrentAttackNum: 0
-  CurrentJumpNum: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fdeb94543da8cfc74aed0fe41d6e35b15f770dc620c9d7ae6671082c6453eb5
+size 1338

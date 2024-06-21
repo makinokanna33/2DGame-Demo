@@ -1,15 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bdff95cfd47e3f1448bf6f623e77e942, type: 3}
-  m_Name: GameSetting
-  m_EditorClassIdentifier: 
-  SkillDataPath: Assets/ScriptObjects/Character/Enemy
+version https://git-lfs.github.com/spec/v1
+oid sha256:add0b47ef304f05cf6c51a90c8a8dbcba39063027efd77f7fd709f9bf89fcdd6
+size 454

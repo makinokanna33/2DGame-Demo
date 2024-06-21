@@ -1,25 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b047273fdd63f344d9f9cab0ad3111fa, type: 3}
-  m_Name: Skul_Head
-  m_EditorClassIdentifier: 
-  SkillName: "\u5454\uFF0C\u5403\u6211\u5934\u9AA8\uFF01"
-  Type: 1
-  SkillIcon: {fileID: 21300000, guid: b4107dc6a2705204aae59505ecf771c9, type: 3}
-  CoolDown: 7
-  MaxComboNum: 2
-  GraceTime: 1
-  DashSkillDuration: 0
-  Speed: 0
-  RemainCD: 0
-  LastUseSkillTime: -10
-  CurrentComboNum: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bf7d6e23ca32a22673f6e709f0a0cde1e3f6e2741c2c047e88cd32ae30cb25a
+size 686

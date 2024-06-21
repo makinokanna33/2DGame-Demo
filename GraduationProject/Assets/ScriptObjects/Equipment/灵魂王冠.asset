@@ -1,21 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: baefc71793f1ec340b00b369a8fbcdb2, type: 3}
-  m_Name: "\u7075\u9B42\u738B\u51A0"
-  m_EditorClassIdentifier: 
-  name: "\u7075\u9B42\u738B\u51A0"
-  info: "\u589E\u52A020%\u7684\u8840\u91CF"
-  type: 2
-  itemIcon: {fileID: 21300000, guid: fe33801f6c83e334a9f151305bda7d7e, type: 3}
-  detailIcon: {fileID: 21300000, guid: 0078d17315ddf174690bb4f75fba330e, type: 3}
-  point: 0.2
-  SellMoney: 4000
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c4ec73a91ba1250012c9ab96bc1e5a296261f3ec647ad5279bdce4940511dca
+size 697

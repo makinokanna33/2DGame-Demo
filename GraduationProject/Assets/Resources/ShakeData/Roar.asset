@@ -1,23 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cbf2b71a297b84564b930517da7ba2d8, type: 3}
-  m_Name: Roar
-  m_EditorClassIdentifier: 
-  Strength: {x: 5, y: 5, z: 0}
-  Duration: 3
-  Vibrato: 69
-  Randomness: 0.353
-  Smoothness: 0.034
-  UseRandomInitialAngle: 1
-  InitialAngle: 0
-  Rotation: {x: 0, y: 0, z: 0}
-  IgnoreTimeScale: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:4de123a4c1dc5c68ea569015f85ac6eda023189eeb1af96e4a5b0184284708cb
+size 589
