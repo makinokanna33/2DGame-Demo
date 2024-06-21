@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b047273fdd63f344d9f9cab0ad3111fa, type: 3}
+  m_Name: Dash
+  m_EditorClassIdentifier: 
+  SkillName: "\u4E00\u95EA"
+  Type: 2
+  SkillIcon: {fileID: 0}
+  CoolDown: 1.5
+  MaxComboNum: 2
+  GraceTime: 0.7
+  DashSkillDuration: 0.25
+  Speed: 18
+  RemainCD: 0
+  LastUseSkillTime: 29.48774
+  CurrentComboNum: 2

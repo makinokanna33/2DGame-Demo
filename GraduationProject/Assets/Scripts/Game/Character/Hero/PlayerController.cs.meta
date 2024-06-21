@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ae5c09629773ca246b67e49a598e3168
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DefualtHero: {fileID: 3879303840143819628, guid: 21937164e36cd794580ed29d7b96fa8a, type: 3}
+  - currentCharacter: {instanceID: 0}
+  - character1: {instanceID: 0}
+  - character2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

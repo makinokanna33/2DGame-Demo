@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6bf5cbcb2a88da43b0420a5065f3e2d, type: 3}
+  m_Name: Skul
+  m_EditorClassIdentifier: 
+  MaxHp: 100
+  CurrentHp: 0
+  MaxAttack: 20
+  MinAttack: 10
+  MoveSpeed: 7
+  HeroName: Skul
+  BattleView_Icon: {fileID: 21300000, guid: c722df0ed0ebc784593917cfae9207bf, type: 3}
+  Invenotry_SlotIcon: {fileID: 21300000, guid: 1179e2071193259439398e9b6441ad13, type: 3}
+  Inventory_DetailIcon: {fileID: 21300000, guid: cf18d58a060f334438b128aa8397158a, type: 3}
+  Scene_HeadIcon: {fileID: 21300000, guid: 1179e2071193259439398e9b6441ad13, type: 3}
+  HeroInfo_1: "\u5C0F\u571F\u521D\u59CB\u5F62\u6001\uFF0C\u8106\u5F31\u7684\u9AA8\u5934\u4EBA"
+  HeroInfo_2: "\u5C0F\u571F\u6000\u5FF5\u4EE5\u524D\u7684\u5BB6\uFF0C\u53EF\u60DC\u90FD\u88AB\u6BC1\u4E86\u3002"
+  MaxAttackNum: 2
+  JumpForce: 23
+  MaxJumpNum: 2
+  Crit: 0.5
+  Skill_Dash: {fileID: 11400000, guid: 30853a4e22502aa45a314a1e952bb86a, type: 2}
+  Skill_1: {fileID: 11400000, guid: c21551f59d442cc4da875895bfb4b5da, type: 2}
+  Skill_2: {fileID: 0}
+  CurrentAttackNum: 0
+  CurrentJumpNum: 2

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 088a406c470ae57448149812e52cd6d7, type: 3}
+  m_Name: BigTreeMan
+  m_EditorClassIdentifier: 
+  MaxHp: 400
+  CurrentHp: 0
+  MaxAttack: 25
+  MinAttack: 20
+  MoveSpeed: 0
+  AttackCD: 5
+  RepelledDistance: 0
+  RepelledSpeed: 0
+  ChaseRange: 0
+  AttackRange: 20
+  ActResetTime: -1
+  MaxBeHitNum: 0
+  DeathReward_Gold: 700
+  BeHitNum: 0
+  RemainAttackCD: 0
+  LastActTime: 0

@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|d:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8Eunity\u76842d\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\graduationproject\\assets\\scripts\\framework\\event\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\framework\\event\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|d:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8Eunity\u76842d\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\graduationproject\\assets\\scripts\\game\\store\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\store\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\assets\\scripts\\game\\level\\startscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\level\\startscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\assets\\scripts\\game\\tools\\tips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\tools\\tips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\assets\\scripts\\game\\tools\\loadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\tools\\loadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\assets\\scripts\\game\\skill\\character\\yggdrassil_skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\skill\\character\\yggdrassil_skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\assets\\scripts\\game\\level\\playmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\level\\playmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\assets\\scripts\\framework\\ui\\inventorywindowchild\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\framework\\ui\\inventorywindowchild\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\assets\\scripts\\game\\store\\good.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\store\\good.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\assets\\scripts\\game\\dropitem\\equipmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\dropitem\\equipmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\assets\\scripts\\game\\dropitem\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\dropitem\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\assets\\scripts\\game\\character\\hero\\skul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\character\\hero\\skul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\assets\\scripts\\game\\character\\hero\\herocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\character\\hero\\herocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\assets\\scripts\\game\\skill\\skilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\skill\\skilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\assets\\scripts\\game\\skill\\character\\skulhead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\skill\\character\\skulhead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\assets\\scripts\\game\\skill\\character\\samural_skill1collider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\skill\\character\\samural_skill1collider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\assets\\scripts\\game\\character\\hero\\samurai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\character\\hero\\samurai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\assets\\scripts\\game\\character\\hero\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\character\\hero\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\assets\\scripts\\game\\skill\\reniteattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\skill\\reniteattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\assets\\scripts\\game\\skill\\quickslash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\skill\\quickslash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Framework\\Event\\EventManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Framework\\Event\\EventManager.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Framework\\Event\\EventManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Framework\\Event\\EventManager.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T09:20:27.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Store.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Store\\Store.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Store\\Store.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Store\\Store.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Store\\Store.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwEIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:37:06.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tips.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Tools\\Tips.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Tools\\Tips.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Tools\\Tips.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Tools\\Tips.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:43:36.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoadScene.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Tools\\LoadScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Tools\\LoadScene.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Tools\\LoadScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Tools\\LoadScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:43:34.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Yggdrassil_Skill.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Skill\\Character\\Yggdrassil_Skill.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Skill\\Character\\Yggdrassil_Skill.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Skill\\Character\\Yggdrassil_Skill.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Skill\\Character\\Yggdrassil_Skill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:43:22.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartScene.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Level\\StartScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Level\\StartScene.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Level\\StartScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Level\\StartScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:42:54.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayMusic.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Level\\PlayMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Level\\PlayMusic.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Level\\PlayMusic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Level\\PlayMusic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:42:50.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Good.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Store\\Good.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Store\\Good.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Store\\Good.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Store\\Good.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:39:31.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EquipmentData.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\DropItem\\EquipmentData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\DropItem\\EquipmentData.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\DropItem\\EquipmentData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\DropItem\\EquipmentData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:39:04.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Framework\\UI\\InventoryWindowChild\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Framework\\UI\\InventoryWindowChild\\InventoryItem.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Framework\\UI\\InventoryWindowChild\\InventoryItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Framework\\UI\\InventoryWindowChild\\InventoryItem.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:35:37.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\DropItem\\Equipment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\DropItem\\Equipment.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\DropItem\\Equipment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\DropItem\\Equipment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:34:16.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReniteAttack.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Skill\\ReniteAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Skill\\ReniteAttack.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Skill\\ReniteAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Skill\\ReniteAttack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:19:43.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QuickSlash.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Skill\\QuickSlash.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Skill\\QuickSlash.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Skill\\QuickSlash.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Skill\\QuickSlash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:19:35.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SkulHead.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Skill\\Character\\SkulHead.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Skill\\Character\\SkulHead.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Skill\\Character\\SkulHead.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Skill\\Character\\SkulHead.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:19:16.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Samural_Skill1Collider.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Skill\\Character\\Samural_Skill1Collider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Skill\\Character\\Samural_Skill1Collider.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Skill\\Character\\Samural_Skill1Collider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Skill\\Character\\Samural_Skill1Collider.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:19:14.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Character\\Hero\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Character\\Hero\\PlayerController.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Character\\Hero\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Character\\Hero\\PlayerController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:18:38.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Samurai.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Character\\Hero\\Samurai.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Character\\Hero\\Samurai.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Character\\Hero\\Samurai.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Character\\Hero\\Samurai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:15:55.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SkillData.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Skill\\SkillData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Skill\\SkillData.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Skill\\SkillData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Skill\\SkillData.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAMwCMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:50:06.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Skul.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Character\\Hero\\Skul.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Character\\Hero\\Skul.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Character\\Hero\\Skul.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Character\\Hero\\Skul.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAD4vzIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T02:49:00.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HeroController.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Character\\Hero\\HeroController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Character\\Hero\\HeroController.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u9879\u76EE\\unity\\\u57FA\u4E8EUnity\u76842D\u6A2A\u7248\u201C\u5C0F\u571F\u201D\u5927\u5192\u9669\\GraduationProject\\Assets\\Scripts\\Game\\Character\\Hero\\HeroController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Character\\Hero\\HeroController.cs",
+              "ViewState": "AQIAAEQBAAAAAAAAAAAWwDABAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T02:37:11.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
